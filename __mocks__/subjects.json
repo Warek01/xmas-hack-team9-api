@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "1",
+    "course_name": "AM1",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "2",
+    "course_name": "AM2",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "3",
+    "course_name": "ALGA",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "4",
+    "course_name": "PC",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "5",
+    "course_name": "PSA",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "6",
+    "course_name": "Etica \u0219i integritatea academic\u0103/ Psihologie inginereasc\u0103/ Comportament organiza\u021bional",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "7",
+    "course_name": "SDA",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "8",
+    "course_name": "CSA",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "9",
+    "course_name": "GC",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "10",
+    "course_name": "Grafica inginereasc\u0103",
+    "theory_lessons": 15,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "11",
+    "course_name": "Fizica",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "12",
+    "course_name": "Mecanica Teoretic\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "13",
+    "course_name": "MS",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "14",
+    "course_name": "MD",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "15",
+    "course_name": "Biologie \u0219i biochimie",
+    "theory_lessons": 45,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "16",
+    "course_name": "Arhitectura calculatoarelor",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "17",
+    "course_name": "Tehnologii Web",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "18",
+    "course_name": "Programarea procedural\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "19",
+    "course_name": "Practica de ini\u021biere",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "20",
+    "course_name": "Criptografie",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "21",
+    "course_name": "ALGA (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "22",
+    "course_name": "PCAIT (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 60",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "23",
+    "course_name": "MD (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "24",
+    "course_name": "AM1 (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "25",
+    "course_name": "EIA (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "26",
+    "course_name": "PSA (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "27",
+    "course_name": "PC (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "28",
+    "course_name": "L. Engleza (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "29",
+    "course_name": "ME (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 60",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "30",
+    "course_name": "SA (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "31",
+    "course_name": "AM2(FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "32",
+    "course_name": "MS(FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "33",
+    "course_name": "MN (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "34",
+    "course_name": "SDA(FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "35",
+    "course_name": "CSA(FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "36",
+    "course_name": "L. Engleza2 (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "37",
+    "course_name": "L. Rom\u00e2n\u0103",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "1"
+  },
+  {
+    "id": "38",
+    "course_name": "L. Rom\u00e2n\u0103 2",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "1",
+    "semester": "2"
+  },
+  {
+    "id": "41",
+    "course_name": "CDE",
+    "theory_lessons": 45,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "42",
+    "course_name": "POO",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "43",
+    "course_name": "MN",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "44",
+    "course_name": "Analiza \u0219i sinteza dispozitivelor numerice",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "45",
+    "course_name": "DPI",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "46",
+    "course_name": "Bazele statului \u0219i dreptului",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "47",
+    "course_name": "Filosofie \u0219i g\u00e2ndire inginereasc\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "48",
+    "course_name": "Interfe\u021be de comunicare",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "49",
+    "course_name": "Procese stochastice",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "50",
+    "course_name": "Sensori \u0219i traductoare",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "51",
+    "course_name": "Mecanica fin\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "52",
+    "course_name": "Analiza \u0219i proiectarea algoritmilor",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "53",
+    "course_name": "Implementarea algoritmilor folosind programarea structural\u0103",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 30",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "54",
+    "course_name": "Traductoare \u0219i m\u0103sur\u0103tori",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 45,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "55",
+    "course_name": "Fizica corpului solid",
+    "theory_lessons": 45,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "56",
+    "course_name": "Optica medical\u0103 \u0219i echipamente optice",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "57",
+    "course_name": "Materiale \u0219i componente \u00een electronic\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "58",
+    "course_name": "Anatomia \u0219i fiziologia uman\u0103 1",
+    "theory_lessons": 60,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "59",
+    "course_name": "Anatomia \u0219i fiziologia uman\u0103 2",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "60",
+    "course_name": "Semnale, circuite \u0219i sisteme",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "61",
+    "course_name": "Bazele tehnologiei electronice",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "62",
+    "course_name": "Programarea interactiv\u0103",
+    "theory_lessons": 36,
+    "practice_lessons": 0,
+    "laboratory_lessons": 24,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "63",
+    "course_name": "BD",
+    "theory_lessons": 36,
+    "practice_lessons": 15,
+    "laboratory_lessons": 24,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "64",
+    "course_name": "Practica \u00een produc\u021bie",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 240",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "65",
+    "course_name": "Tehnologii ale securit\u0103\u021bii informa\u021bionale",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "66",
+    "course_name": "Re\u021bele de calculatoare",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "67",
+    "course_name": "Tehnici avansate de programare",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "68",
+    "course_name": "Analiza \u0219i modelarea sistemelor",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "69",
+    "course_name": "Cercet\u0103ri opera\u021bionale",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "70",
+    "course_name": "Limbaje formale \u0219i compilatoare",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "71",
+    "course_name": "Procesarea informa\u021biei",
+    "theory_lessons": 15,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "72",
+    "course_name": "Managementul bazelor de date",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "73",
+    "course_name": "\u00cenv\u0103\u021barea automat\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "74",
+    "course_name": "Lingvistica computa\u021bional\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "75",
+    "course_name": "Limba str\u0103in\u0103 3",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "76",
+    "course_name": "Arhitecuri de calculatoare",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "77",
+    "course_name": "Tehnologii Web",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "78",
+    "course_name": "Proiectarea cu dispozitive programabile",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "79",
+    "course_name": "Proiectarea circuitelor numerice",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "80",
+    "course_name": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri",
+    "theory_lessons": 45,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "81",
+    "course_name": "Bazele roboticii \u0219i mecatronicii",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "82",
+    "course_name": "Circuite integrate",
+    "theory_lessons": 45,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "83",
+    "course_name": "Sisteme cu eventimente discrete",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "84",
+    "course_name": "Teoria sistemelor automate",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "85",
+    "course_name": "Sisteme de operare",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "86",
+    "course_name": "Limbaje formale \u0219i automate finite",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "87",
+    "course_name": "Modelarea \u0219i realizarea sistemelor utiliz\u00e2nd tehnologii Web",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 30",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "88",
+    "course_name": "Cadrul legal al securit\u0103\u021bii informa\u021bionale",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "89",
+    "course_name": "M\u0103suri electronice",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "90",
+    "course_name": "Circuite integrate 1",
+    "theory_lessons": 45,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "91",
+    "course_name": "Dispozitive micronanoelectronice",
+    "theory_lessons": 45,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "92",
+    "course_name": "Dispozitive micro-optoelectronice",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "93",
+    "course_name": "Dispozitive electronice \u00een electronica aplicat\u0103",
+    "theory_lessons": 45,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "94",
+    "course_name": "Arhitectura sistemelor de calcul",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "95",
+    "course_name": "Proiectarea asistat\u0103 \u00een electronic\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "96",
+    "course_name": "Programarea \u00een electronic\u0103",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "97",
+    "course_name": "Bazele transmiterii de date",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "98",
+    "course_name": "Limbaje de descriere Hardware",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "99",
+    "course_name": "Sisteme de comunicare \u0219i transmisie de date",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "100",
+    "course_name": "Proiecarea asistat\u0103 de calculator a dispozitivelor medicale",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 15,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "101",
+    "course_name": "Biomateriale",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "102",
+    "course_name": "BDA (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 30",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "103",
+    "course_name": "POO (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "104",
+    "course_name": "GC (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "105",
+    "course_name": "BD (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "106",
+    "course_name": "AMS (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 15,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "107",
+    "course_name": "DPI (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "108",
+    "course_name": "PT (FAF)",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "109",
+    "course_name": "Elaborarea limbajului specific domeniului",
+    "theory_lessons": 0,
+    "practice_lessons": 0,
+    "laboratory_lessons": 0,
+    "project_lessons": "Proiect 120",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "110",
+    "course_name": "Analiza algoritmilor (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "111",
+    "course_name": "Arhitecturi de calculatoare (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "112",
+    "course_name": "Tehnologii Multimedia (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 45,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "113",
+    "course_name": "Re\u021bele de calculatoare (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "114",
+    "course_name": "Limbaje formale \u0219i automate (FAF)",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 45,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "115",
+    "course_name": "Ed. Fizic\u01033",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  },
+  {
+    "id": "116",
+    "course_name": "Ed. Fizic\u01034",
+    "theory_lessons": 0,
+    "practice_lessons": 30,
+    "laboratory_lessons": 0,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "4"
+  },
+  {
+    "id": "117",
+    "course_name": "Biofizica",
+    "theory_lessons": 30,
+    "practice_lessons": 0,
+    "laboratory_lessons": 30,
+    "project_lessons": "",
+    "student_year": "2",
+    "semester": "3"
+  }
+]

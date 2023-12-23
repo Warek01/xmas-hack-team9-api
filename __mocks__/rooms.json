@@ -1,0 +1,387 @@
+[
+  {
+    "id": "3-3",
+    "is_lab_cab": "0",
+    "nr_persons": "210"
+  },
+  {
+    "id": "3-101",
+    "is_lab_cab": "0",
+    "nr_persons": "88"
+  },
+  {
+    "id": "3-104",
+    "is_lab_cab": "0",
+    "nr_persons": "94"
+  },
+  {
+    "id": "3-201",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-202",
+    "is_lab_cab": "0",
+    "nr_persons": "32"
+  },
+  {
+    "id": "3-203",
+    "is_lab_cab": "0",
+    "nr_persons": "26"
+  },
+  {
+    "id": "3-224",
+    "is_lab_cab": "0",
+    "nr_persons": "34"
+  },
+  {
+    "id": "3-310",
+    "is_lab_cab": "0",
+    "nr_persons": "76"
+  },
+  {
+    "id": "3-312",
+    "is_lab_cab": "0",
+    "nr_persons": "24"
+  },
+  {
+    "id": "3-401",
+    "is_lab_cab": "0",
+    "nr_persons": "60"
+  },
+  {
+    "id": "3-402",
+    "is_lab_cab": "0",
+    "nr_persons": "60"
+  },
+  {
+    "id": "3-404",
+    "is_lab_cab": "0",
+    "nr_persons": "24"
+  },
+  {
+    "id": "3-405",
+    "is_lab_cab": "0",
+    "nr_persons": "405"
+  },
+  {
+    "id": "3-505",
+    "is_lab_cab": "0",
+    "nr_persons": "505"
+  },
+  {
+    "id": "3-512",
+    "is_lab_cab": "0",
+    "nr_persons": "512"
+  },
+  {
+    "id": "3-515",
+    "is_lab_cab": "0",
+    "nr_persons": "24"
+  },
+  {
+    "id": "3-519",
+    "is_lab_cab": "0",
+    "nr_persons": "28"
+  },
+  {
+    "id": "3-524",
+    "is_lab_cab": "0",
+    "nr_persons": "24"
+  },
+  {
+    "id": "6-2",
+    "is_lab_cab": "0",
+    "nr_persons": "180"
+  },
+  {
+    "id": "5-1",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-601",
+    "is_lab_cab": "0",
+    "nr_persons": "15"
+  },
+  {
+    "id": "3-604",
+    "is_lab_cab": "0",
+    "nr_persons": "60"
+  },
+  {
+    "id": "3-606",
+    "is_lab_cab": "0",
+    "nr_persons": "28"
+  },
+  {
+    "id": "3-607",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-609",
+    "is_lab_cab": "0",
+    "nr_persons": "56"
+  },
+  {
+    "id": "3-611",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-613",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-614",
+    "is_lab_cab": "0",
+    "nr_persons": "60"
+  },
+  {
+    "id": "3-618",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-622",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-623",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-624",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-630",
+    "is_lab_cab": "0",
+    "nr_persons": "30"
+  },
+  {
+    "id": "3-707",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-709",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-717",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-718",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-719",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-720",
+    "is_lab_cab": "0",
+    "nr_persons": "60"
+  },
+  {
+    "id": "3-722",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-724",
+    "is_lab_cab": "0",
+    "nr_persons": 30
+  },
+  {
+    "id": "3-113",
+    "is_lab_cab": "0",
+    "nr_persons": "48"
+  },
+  {
+    "id": "3-115",
+    "is_lab_cab": "0",
+    "nr_persons": "20"
+  },
+  {
+    "id": "3-118",
+    "is_lab_cab": "0",
+    "nr_persons": "50"
+  },
+  {
+    "id": "D-01",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "D-03",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "D-02",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "D-04",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "110",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "112",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "114",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "212",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "214",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "215",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "217",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "406",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "407",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "409",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "420",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "422",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "427",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "416",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "501A",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "501B",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "503",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "502A",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "502B",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "516",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "513A",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "513B",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "518",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "608",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "619",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "628",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "A-01",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "A-02",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  },
+  {
+    "id": "A-03",
+    "is_lab_cab": "1",
+    "nr_persons": 30
+  }
+]
