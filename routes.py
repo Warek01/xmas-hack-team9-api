@@ -67,12 +67,12 @@ def add_professor():
     return jsonify({"message": "Professor added successfully"}), 201
 
 
-@app.route('api/schedule', methods=['GET'])
+@app.route('/api/schedule', methods=['GET'])
 def get_schedule():
     return jsonify({"message": "I guess schedule goes here."}), 201
 
 
-@app.route('api/room', methods=['GET'])
+@app.route('/api/room', methods=['GET'])
 def get_room_status():
     data = request.json
     '''
