@@ -9,18 +9,38 @@ from models.Room import Room
 from models.Subject import Subject
 
 
-@app.route('/api/groups', methods=['POST'])
+@app.route('/api/groups', methods=['POST', 'GET'])
 def add_group():
-    data = request.json
-    new_group = Group(
-        academic_group=data['academic_group'],  # speciality
-        total_students=data['total_students'],  # nr_persoane
-        subject_ids=data['subject_ids'],  # subject ids
-        language_spoken=data['language_spoken']
-    )
-    db.session.add(new_group)
-    db.session.commit()
-    return jsonify({"message": "Group added successfully"}), 201
+    if request.method == 'POST':
+        data = request.json
+
+        subjects = []
+
+        for s in data['subject_ids']:
+            subjects.append(
+                db.session.query(Subject).filter(Subject.id == s).first()
+            )
+
+        new_group = Group(
+            academic_group=data['academic_group'],  # speciality
+            total_students=data['total_students'],  # nr_persoane
+            language_spoken=data['language_spoken']
+        )
+        db.session.add(new_group)
+        db.session.commit()
+        return jsonify({"message": "Group added successfully"}), 201
+    else:
+      groups = db.session.query(Group).all()
+      val = []
+
+      for g in groups:
+          val.append({
+              'name': g.academic_group,
+              'language': g.language_spoken,
+              'peopleCount': g.total_students,
+          })
+
+      return jsonify(val)
 
 
 @app.route('/api/subjects', methods=['POST'])
