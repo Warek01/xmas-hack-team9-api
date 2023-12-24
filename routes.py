@@ -13,10 +13,10 @@ from models.Subject import Subject
 def add_group():
     data = request.json
     new_group = Group(
-        specialty=data['specialty'],
-        number_of_people=data['no_of_people'],
-        subject_ids=data['subject_ids'],
-        language=data['language']
+        academic_group=data['academic_group'],  # speciality
+        total_students=data['total_students'],  # nr_persoane
+        subject_ids=data['subject_ids'],  # subject ids
+        language_spoken=data['language_spoken']
     )
     db.session.add(new_group)
     db.session.commit()
@@ -29,11 +29,11 @@ def add_subject():
     new_subject = Subject(
         course_name=data['course_name'],
         student_year=data['year'],
-        student_semester=data['semester'],
-        theory_lessons=data['no_of_theory_hours'],
-        practical_lessons=data['no_of_practice_hours'],
-        lab_lessons=data['no_of_laboratory_hours'],
-        total=data['total_no_hours']
+        semester=data['semester'],
+        theory_lessons=data['theory_lessons'],
+        practice_lessons=data['practice_lessons'],
+        laboratory_lessons=data['laboratory_lessons'],
+        project_lessons=data['project_lessons']
     )
     db.session.add(new_subject)
     db.session.commit()
@@ -79,4 +79,3 @@ def get_room_status():
     Have to get room status after schedule is complete somehow...
     '''
     return jsonify({"message": "I guess room status goes here."}), 201
-
