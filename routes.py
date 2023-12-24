@@ -7,7 +7,7 @@ from models.Group import Group
 from models.Professor import Professor
 from models.Room import Room
 from models.Subject import Subject
-
+import scheduler2
 
 @app.route('/api/groups', methods=['POST', 'GET'])
 def add_group():
@@ -89,7 +89,7 @@ def add_professor():
 
 @app.route('/api/schedule', methods=['GET'])
 def get_schedule():
-    return jsonify({"message": "I guess schedule goes here."}), 201
+    return jsonify(scheduler2.get_schedule(1)), 201
 
 
 @app.route('/api/room', methods=['GET'])
