@@ -89,7 +89,14 @@ def add_professor():
 
 @app.route('/api/schedule', methods=['GET'])
 def get_schedule():
-    return jsonify(scheduler2.get_schedule(1)), 201
+    try:
+        f = open("schedule.txt", "r")
+        return f.read()
+    except:
+        serie = scheduler2.get_schedule(1)
+        with open("schedule.txt", "w") as f:
+            f.write(serie) 
+        return jsonify(serie), 201
 
 
 @app.route('/api/room', methods=['GET'])
