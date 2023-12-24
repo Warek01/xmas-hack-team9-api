@@ -97,9 +97,9 @@ if __name__ == "__main__":
     '''
      Uncomment code below when first time starting the app to load initial data from mocks
     '''
-    with app.app_context():
-        db.create_all()
-        load_data(db)
+    # with app.app_context():
+    #     db.create_all()
+    #     load_data(db)
     import routes
 
     app.run('127.0.0.1', 3000)

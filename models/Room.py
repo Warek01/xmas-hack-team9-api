@@ -2,7 +2,7 @@ from database.database import db
 
 
 class Room(db.Model):
-    id = db.Column(db.String, primary_key=True)
+    id = db.Column(db.String, primary_key=True, autoincrement=True)
     is_lab_cab = db.Column(db.Boolean)
     nr_persons = db.Column(db.Integer)
 

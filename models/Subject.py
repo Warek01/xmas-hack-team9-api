@@ -4,7 +4,7 @@ from database.database import db
 
 
 class Subject(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     course_name = db.Column(db.String)  # unitate_curs
     theory_lessons = db.Column(db.Integer)  # teorie
     practice_lessons = db.Column(db.Integer)  # practica

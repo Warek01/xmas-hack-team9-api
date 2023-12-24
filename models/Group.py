@@ -7,7 +7,7 @@ subjects_groups = db.Table('subjects_groups',
 
 
 class Group(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     academic_group = db.Column(db.String)  # speciality
     language_spoken = db.Column(db.String)  # language
     total_students = db.Column(db.Integer)  # nr_persoane
