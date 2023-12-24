@@ -177,9 +177,9 @@ def get_schedule(semester_parity):
 
     def generate_(lab_prof_grup_pairs, seminar_prof_grup_pairs, prof_grup_pairs, spacetime_states):
 
-        print(len(lab_prof_grup_pairs))
-        print(len(seminar_prof_grup_pairs)) 
-        print(len(prof_grup_pairs))
+        # print(len(lab_prof_grup_pairs))
+        # print(len(seminar_prof_grup_pairs)) 
+        # print(len(prof_grup_pairs))
 
         group_sets = []
         prof_sets = []
@@ -372,7 +372,7 @@ def get_schedule(semester_parity):
         if hour == 5:
             return "17:00 - 18:30"
         if hour == 6:
-            return "18:30 - 20:15"
+            return "18:45 - 20:15"
 
     def find_subject(id):
         for i in list_of_subj1:
@@ -400,8 +400,11 @@ def get_schedule(semester_parity):
                         "professorName" : cab.prof.name
                     }
 
-
+    # print(schedule_details)
     return schedule_details
+
+if __name__ == "__main__":
+    print(get_schedule(1))
 
     # df = pd.DataFrame(
     #     spacetime_states1,
