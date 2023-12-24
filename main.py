@@ -17,15 +17,22 @@ def load_data(db):
     with open('__mocks__/subjects.json', 'r') as file:
         subjects_data = json.load(file)
         for item in subjects_data:
-            subject = Subject(**item)
+            subject = Subject(id=int(item['id']), course_name=item['course_name'],
+                              theory_lessons=item['theory_lessons'], practice_lessons=item['practice_lessons'],
+                              laboratory_lessons=item['laboratory_lessons'],
+                              project_lessons=item['project_lessons'], student_year=item['student_year'],
+                              semester=item['semester'], )
             db.session.add(subject)
     db.session.commit()
 
     with open('__mocks__/academic_groups.json', 'r') as file:
         groups_data = json.load(file)
         for group_data in groups_data:
-            subject_ids = group_data.pop('subject_ids', [])
-            group = Group(**group_data)
+            subject_ids = [int(sid.strip()) for sid in group_data.pop('subject_ids', []) if len(sid)]
+            print(subject_ids)
+            group = Group(id=int(group_data['id']),
+                          academic_group=group_data['academic_group'],
+                          language_spoken=group_data['academic_group'], total_students=group_data['total_students'])
             subjects = Subject.query.filter(Subject.id.in_(subject_ids)).all()
             group.subjects.extend(subjects)
             db.session.add(group)
@@ -36,7 +43,7 @@ def load_data(db):
         for item in professors_data:
             if len(item["subject"]) == 0:
                 professor = Professor(
-                    id=item["id"],
+                    id=int(item["id"]),
                     name=item["name"],
                     lessons_type=item["lessons_type"],
                     availability=item["availability"],
@@ -44,7 +51,7 @@ def load_data(db):
                 )
             else:
                 professor = Professor(
-                    id=item["id"],
+                    id=int(item["id"]),
                     name=item["name"],
                     lessons_type=item["lessons_type"],
                     availability=item["availability"],
@@ -90,11 +97,9 @@ if __name__ == "__main__":
     '''
      Uncomment code below when first time starting the app to load initial data from mocks
     '''
-    '''
-         with app.app_context():
-         db.create_all()
-         load_data(db)
-    '''
+    with app.app_context():
+        db.create_all()
+        load_data(db)
     import routes
 
     app.run('127.0.0.1', 3000)

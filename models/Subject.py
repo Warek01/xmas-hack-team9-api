@@ -4,7 +4,7 @@ from database.database import db
 
 
 class Subject(db.Model):
-    id = db.Column(db.String, primary_key=True)
+    id = db.Column(db.Integer, primary_key=True)
     course_name = db.Column(db.String)  # unitate_curs
     theory_lessons = db.Column(db.Integer)  # teorie
     practice_lessons = db.Column(db.Integer)  # practica
@@ -13,7 +13,7 @@ class Subject(db.Model):
     student_year = db.Column(db.Integer)  # anul
     semester = db.Column(db.Integer)  # semestru
 
-    group_id = db.Column(db.String, ForeignKey('group.id'))
+    group_id = db.Column(db.Integer, ForeignKey('group.id'))
 
     def __repr__(self):
         return (f"<Subject id='{self.id}', course_code='{self.course_name}', "
