@@ -1,3 +1,5 @@
+import json
+
 from flask import jsonify, request
 
 from __main__ import app
@@ -8,6 +10,7 @@ from models.Professor import Professor
 from models.Room import Room
 from models.Subject import Subject
 import scheduler2
+
 
 @app.route('/api/groups', methods=['POST', 'GET'])
 def add_group():
@@ -30,17 +33,17 @@ def add_group():
         db.session.commit()
         return jsonify({"message": "Group added successfully"}), 201
     else:
-      groups = db.session.query(Group).all()
-      val = []
+        groups = db.session.query(Group).all()
+        val = []
 
-      for g in groups:
-          val.append({
-              'name': g.academic_group,
-              'language': g.language_spoken,
-              'peopleCount': g.total_students,
-          })
+        for g in groups:
+            val.append({
+                'name': g.academic_group,
+                'language': g.language_spoken,
+                'peopleCount': g.total_students,
+            })
 
-      return jsonify(val)
+        return jsonify(val)
 
 
 @app.route('/api/subjects', methods=['POST'])
@@ -94,8 +97,9 @@ def get_schedule():
         return f.read()
     except:
         serie = scheduler2.get_schedule(1)
+        print(serie)
         with open("schedule.txt", "w") as f:
-            f.write(serie) 
+            f.write(json.dumps(serie))
         return jsonify(serie), 201
 
 

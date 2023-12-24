@@ -1,0 +1,18 @@
+Index: .env
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>POSTGRES_HOST=postgres\nPOSTGRES_DB=\nPOSTGRES_USER=\nPOSTGRES_PASSWORD=\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.env b/.env
+--- a/.env	(revision 8a20f01e2a4aa30aa2cd0e8befc44674b6d327db)
++++ b/.env	(date 1703409736107)
+@@ -1,4 +1,4 @@
+ POSTGRES_HOST=postgres
+-POSTGRES_DB=
+-POSTGRES_USER=
+-POSTGRES_PASSWORD=
++POSTGRES_DB=networkprogramming
++POSTGRES_USER=cornel
++POSTGRES_PASSWORD=admin

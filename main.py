@@ -1,6 +1,7 @@
 import json
 
 from flask import Flask
+from flask_cors import CORS
 
 from database.database import db
 
@@ -75,6 +76,7 @@ def load_data(db):
 def initialize_flask(host: str, port: int) -> Flask:
     load_dotenv()
     app = Flask(f'{host}:{port}')
+    CORS(app)
 
     postgres_user = os.getenv("POSTGRES_USER")
     postgres_password = os.getenv("POSTGRES_PASSWORD")

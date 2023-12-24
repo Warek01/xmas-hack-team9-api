@@ -1,0 +1,4039 @@
+{
+    "AI-231": {
+        "Monday-8:00 - 9:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-524",
+            "professorName": "Antonino Pizelato"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "GC - Lab",
+            "room": "619",
+            "professorName": "Justice Hawkins"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "D-04",
+            "professorName": "Patrick Hess"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "SDA - Curs",
+            "room": "3-118",
+            "professorName": "Andrew Nigel"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "GC - Curs",
+            "room": "3-719",
+            "professorName": "Jones Portillo"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "D-01",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "212",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        }
+    },
+    "AI-232": {
+        "Monday-17:00 - 18:30": {
+            "subject": "MS - Lab",
+            "room": "D-01",
+            "professorName": "Anika Peters"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "3-613",
+            "professorName": "Andrew Nigel"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "GC - Lab",
+            "room": "D-03",
+            "professorName": "Justice Hawkins"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "114",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-613",
+            "professorName": "Antonino Pizelato"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Curs",
+            "room": "3-623",
+            "professorName": "Shepard Decker"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-623",
+            "professorName": "Faye McCarty"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "416",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-203",
+            "professorName": "Carter Mullen"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        }
+    },
+    "CR-231": {
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "MS - Curs",
+            "room": "3-601",
+            "professorName": "Shepard Decker"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "513B",
+            "professorName": "Patrick Hess"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "CSA - Curs",
+            "room": "3-618",
+            "professorName": "Meghan Krueger"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-724",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "GC - Lab",
+            "room": "619",
+            "professorName": "Justice Hawkins"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "212",
+            "professorName": "Drake Kemp"
+        }
+    },
+    "CR-232": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "501B",
+            "professorName": "Patrick Hess"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "CSA - Curs",
+            "room": "3-719",
+            "professorName": "Meghan Krueger"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "MS - Lab",
+            "room": "427",
+            "professorName": "Anika Peters"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "212",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-104",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "GC - Curs",
+            "room": "3-622",
+            "professorName": "Jones Portillo"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "GC - Lab",
+            "room": "D-01",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Curs",
+            "room": "3-310",
+            "professorName": "Shepard Decker"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "MD - Curs",
+            "room": "3-613",
+            "professorName": "Aleena Petersen"
+        }
+    },
+    "CR-233": {
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-524",
+            "professorName": "Faye McCarty"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "GC - Lab",
+            "room": "503",
+            "professorName": "Justice Hawkins"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "502B",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-717",
+            "professorName": "Shepard Decker"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "502A",
+            "professorName": "Patrick Hess"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "MS - Lab",
+            "room": "501A",
+            "professorName": "Anika Peters"
+        }
+    },
+    "EA-231": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-607",
+            "professorName": "Shepard Decker"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "CSA - Curs",
+            "room": "3-405",
+            "professorName": "Meghan Krueger"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "MD - Lab",
+            "room": "409",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "110",
+            "professorName": "Anika Peters"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "D-01",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-203",
+            "professorName": "Carter Mullen"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "GC - Lab",
+            "room": "217",
+            "professorName": "Justice Hawkins"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "SDA - Curs",
+            "room": "3-601",
+            "professorName": "Andrew Nigel"
+        }
+    },
+    "EA/MN-232": {
+        "Monday-8:00 - 9:30": {
+            "subject": "GC - Lab",
+            "room": "D-01",
+            "professorName": "Justice Hawkins"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "MD - Lab",
+            "room": "513A",
+            "professorName": "Patrick Hess"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-118",
+            "professorName": "Antonino Pizelato"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-201",
+            "professorName": "Faye McCarty"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-722",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Curs",
+            "room": "3-101",
+            "professorName": "Aleena Petersen"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-104",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Lab",
+            "room": "406",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "D-01",
+            "professorName": "Drake Kemp"
+        }
+    },
+    "IA-231": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-609",
+            "professorName": "Yehuda Frazier"
+        },
+        "Monday-9:45 - 11:15": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "A-03",
+            "professorName": "Forest Spence"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "GC - Lab",
+            "room": "407",
+            "professorName": "Justice Hawkins"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "416",
+            "professorName": "Edgar Benitez"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "MD - Lab",
+            "room": "212",
+            "professorName": "Patrick Hess"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "619",
+            "professorName": "Aliza Gillespie"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "CSA - Curs",
+            "room": "3-623",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-709",
+            "professorName": "Angel House"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "SDA - Curs",
+            "room": "3-515",
+            "professorName": "Andrew Nigel"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "GC - Curs",
+            "room": "3-624",
+            "professorName": "Jones Portillo"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-3",
+            "professorName": "Octavia Villarreal"
+        }
+    },
+    "IA-232": {
+        "Monday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "501A",
+            "professorName": "Patrick Hess"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-405",
+            "professorName": "Meghan Krueger"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "214",
+            "professorName": "Edgar Benitez"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "503",
+            "professorName": "Forest Spence"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "AM2 - Curs",
+            "room": "3-115",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "GC - Lab",
+            "room": "D-03",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-606",
+            "professorName": "Yehuda Frazier"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-3",
+            "professorName": "Angel House"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "SDA - Curs",
+            "room": "3-224",
+            "professorName": "Andrew Nigel"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "MD - Curs",
+            "room": "3-623",
+            "professorName": "Aleena Petersen"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-3",
+            "professorName": "Octavia Villarreal"
+        }
+    },
+    "IA-233": {
+        "Monday-13:30 - 15:00": {
+            "subject": "AM2 - Curs",
+            "room": "5-1",
+            "professorName": "Antonino Pizelato"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "MD - Lab",
+            "room": "D-04",
+            "professorName": "Patrick Hess"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-401",
+            "professorName": "Yehuda Frazier"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "SDA - Curs",
+            "room": "3-718",
+            "professorName": "Andrew Nigel"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-104",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "217",
+            "professorName": "Edgar Benitez"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "3-401",
+            "professorName": "Jones Portillo"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "GC - Lab",
+            "room": "D-02",
+            "professorName": "Justice Hawkins"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-614",
+            "professorName": "Angel House"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "214",
+            "professorName": "Aliza Gillespie"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "406",
+            "professorName": "Forest Spence"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-3",
+            "professorName": "Octavia Villarreal"
+        }
+    },
+    "IA-234": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-609",
+            "professorName": "Yehuda Frazier"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "SDA - Curs",
+            "room": "3-113",
+            "professorName": "Andrew Nigel"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "MD - Lab",
+            "room": "114",
+            "professorName": "Patrick Hess"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-709",
+            "professorName": "Octavia Villarreal"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "513B",
+            "professorName": "Edgar Benitez"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "GC - Lab",
+            "room": "114",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "GC - Curs",
+            "room": "3-224",
+            "professorName": "Jones Portillo"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "AM2 - Curs",
+            "room": "3-722",
+            "professorName": "Antonino Pizelato"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-614",
+            "professorName": "Angel House"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "513A",
+            "professorName": "Forest Spence"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "427",
+            "professorName": "Aliza Gillespie"
+        }
+    },
+    "IA-235": {
+        "Tuesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "3-613",
+            "professorName": "Andrew Nigel"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MD - Lab",
+            "room": "D-01",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "GC - Lab",
+            "room": "501B",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-202",
+            "professorName": "Faye McCarty"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "516",
+            "professorName": "Aliza Gillespie"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "AM2 - Curs",
+            "room": "3-724",
+            "professorName": "Antonino Pizelato"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "D-04",
+            "professorName": "Forest Spence"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "A-02",
+            "professorName": "Edgar Benitez"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-401",
+            "professorName": "Yehuda Frazier"
+        }
+    },
+    "SD-231": {
+        "Monday-9:45 - 11:15": {
+            "subject": "MD - Lab",
+            "room": "D-02",
+            "professorName": "Patrick Hess"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-709",
+            "professorName": "Octavia Villarreal"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-401",
+            "professorName": "Yehuda Frazier"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "AM2 - Curs",
+            "room": "3-709",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "SDA - Curs",
+            "room": "3-611",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "GC - Lab",
+            "room": "D-03",
+            "professorName": "Justice Hawkins"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-3",
+            "professorName": "Angel House"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "3-401",
+            "professorName": "Jones Portillo"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "D-01",
+            "professorName": "Forest Spence"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "513B",
+            "professorName": "Aliza Gillespie"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Arhitectura calculatoarelor - Lab",
+            "room": "112",
+            "professorName": "Edgar Benitez"
+        }
+    },
+    "SD-232": {
+        "Monday-15:15 - 16:45": {
+            "subject": "CSA - Curs",
+            "room": "3-405",
+            "professorName": "Meghan Krueger"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "518",
+            "professorName": "Aliza Gillespie"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-622",
+            "professorName": "Yehuda Frazier"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-404",
+            "professorName": "Faye McCarty"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Programarea procedural\u0103 - Lab",
+            "room": "427",
+            "professorName": "Forest Spence"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "MD - Lab",
+            "room": "A-03",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "Programarea procedural\u0103 - Curs",
+            "room": "3-524",
+            "professorName": "Octavia Villarreal"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Arhitectura calculatoarelor - Curs",
+            "room": "3-614",
+            "professorName": "Angel House"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "GC - Curs",
+            "room": "3-609",
+            "professorName": "Jones Portillo"
+        }
+    },
+    "IBM-231": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "112",
+            "professorName": "Drake Kemp"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "GC - Lab",
+            "room": "D-04",
+            "professorName": "Justice Hawkins"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-3",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "CSA - Curs",
+            "room": "3-118",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Biologie \u0219i biochimie - Lab",
+            "room": "513A",
+            "professorName": "Kaliyah Salinas"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "501A",
+            "professorName": "Anika Peters"
+        }
+    },
+    "IBM-232": {
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Biologie \u0219i biochimie - Lab",
+            "room": "518",
+            "professorName": "Kaliyah Salinas"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "AM2 - Curs",
+            "room": "3-113",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "GC - Lab",
+            "room": "513A",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-104",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Lab",
+            "room": "501B",
+            "professorName": "Anika Peters"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "Biologie \u0219i biochimie - Curs",
+            "room": "3-604",
+            "professorName": "Samson Gross"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "A-01",
+            "professorName": "Drake Kemp"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "GC - Curs",
+            "room": "3-609",
+            "professorName": "Jones Portillo"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "MS - Curs",
+            "room": "3-224",
+            "professorName": "Shepard Decker"
+        }
+    },
+    "MN-231": {
+        "Monday-15:15 - 16:45": {
+            "subject": "MS - Curs",
+            "room": "3-613",
+            "professorName": "Shepard Decker"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "217",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Curs",
+            "room": "3-101",
+            "professorName": "Aleena Petersen"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "MD - Lab",
+            "room": "114",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "GC - Lab",
+            "room": "212",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "420",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-115",
+            "professorName": "Carter Mullen"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "SDA - Curs",
+            "room": "3-512",
+            "professorName": "Andrew Nigel"
+        }
+    },
+    "RM-231": {
+        "Monday-9:45 - 11:15": {
+            "subject": "SDA - Curs",
+            "room": "3-402",
+            "professorName": "Andrew Nigel"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-512",
+            "professorName": "Antonino Pizelato"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-310",
+            "professorName": "Shepard Decker"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "GC - Curs",
+            "room": "3-104",
+            "professorName": "Jones Portillo"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "518",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "503",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "GC - Lab",
+            "room": "114",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-310",
+            "professorName": "Carter Mullen"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "MS - Lab",
+            "room": "D-02",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-402",
+            "professorName": "Meghan Krueger"
+        }
+    },
+    "SI-231": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MS - Lab",
+            "room": "110",
+            "professorName": "Anika Peters"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-118",
+            "professorName": "Antonino Pizelato"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-613",
+            "professorName": "Shepard Decker"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "406",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Criptografie - Lab",
+            "room": "503",
+            "professorName": "Kannon Bryan"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "CSA - Curs",
+            "room": "3-720",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "MD - Lab",
+            "room": "628",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "3-718",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-402",
+            "professorName": "Carter Mullen"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Criptografie - Curs",
+            "room": "3-601",
+            "professorName": "Nalani Guevara"
+        }
+    },
+    "SI-232": {
+        "Tuesday-9:45 - 11:15": {
+            "subject": "MD - Curs",
+            "room": "3-312",
+            "professorName": "Aleena Petersen"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "SDA - Curs",
+            "room": "3-224",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Criptografie - Curs",
+            "room": "3-404",
+            "professorName": "Nalani Guevara"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "CSA - Curs",
+            "room": "3-118",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "217",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "D-04",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-720",
+            "professorName": "Carter Mullen"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-604",
+            "professorName": "Antonino Pizelato"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "501B",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Criptografie - Lab",
+            "room": "D-01",
+            "professorName": "Kannon Bryan"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "MS - Curs",
+            "room": "3-707",
+            "professorName": "Shepard Decker"
+        }
+    },
+    "SI-233": {
+        "Monday-15:15 - 16:45": {
+            "subject": "MD - Lab",
+            "room": "406",
+            "professorName": "Patrick Hess"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-310",
+            "professorName": "Shepard Decker"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-519",
+            "professorName": "Faye McCarty"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Criptografie - Curs",
+            "room": "3-607",
+            "professorName": "Nalani Guevara"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-622",
+            "professorName": "Antonino Pizelato"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Criptografie - Lab",
+            "room": "516",
+            "professorName": "Kannon Bryan"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "CSA - Curs",
+            "room": "3-203",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "SDA - Curs",
+            "room": "3-709",
+            "professorName": "Andrew Nigel"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "D-01",
+            "professorName": "Drake Kemp"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "518",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-202",
+            "professorName": "Carter Mullen"
+        }
+    },
+    "SI-234": {
+        "Monday-13:30 - 15:00": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-607",
+            "professorName": "Faye McCarty"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-707",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-613",
+            "professorName": "Antonino Pizelato"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Criptografie - Curs",
+            "room": "3-623",
+            "professorName": "Nalani Guevara"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "SDA - Curs",
+            "room": "3-113",
+            "professorName": "Andrew Nigel"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "CSA - Curs",
+            "room": "3-613",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "516",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "A-02",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "110",
+            "professorName": "Drake Kemp"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Criptografie - Lab",
+            "room": "513B",
+            "professorName": "Kannon Bryan"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "MS - Curs",
+            "room": "3-224",
+            "professorName": "Shepard Decker"
+        }
+    },
+    "TI-231": {
+        "Monday-9:45 - 11:15": {
+            "subject": "AM2 - Curs",
+            "room": "3-405",
+            "professorName": "Antonino Pizelato"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-310",
+            "professorName": "Shepard Decker"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-202",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "GC - Lab",
+            "room": "608",
+            "professorName": "Justice Hawkins"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "SDA - Curs",
+            "room": "3-719",
+            "professorName": "Andrew Nigel"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "112",
+            "professorName": "Drake Kemp"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "MD - Lab",
+            "room": "114",
+            "professorName": "Patrick Hess"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "MS - Lab",
+            "room": "420",
+            "professorName": "Anika Peters"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "GC - Curs",
+            "room": "3-515",
+            "professorName": "Jones Portillo"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "MD - Curs",
+            "room": "3-606",
+            "professorName": "Aleena Petersen"
+        }
+    },
+    "TI-232": {
+        "Monday-9:45 - 11:15": {
+            "subject": "GC - Curs",
+            "room": "3-709",
+            "professorName": "Jones Portillo"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "MD - Lab",
+            "room": "D-02",
+            "professorName": "Patrick Hess"
+        },
+        "Monday-13:30 - 15:00": {
+            "subject": "MS - Lab",
+            "room": "110",
+            "professorName": "Anika Peters"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-202",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "MS - Curs",
+            "room": "3-224",
+            "professorName": "Shepard Decker"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "3-402",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "3-601",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "GC - Lab",
+            "room": "406",
+            "professorName": "Justice Hawkins"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "214",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-402",
+            "professorName": "Carter Mullen"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "SDA - Curs",
+            "room": "5-1",
+            "professorName": "Andrew Nigel"
+        }
+    },
+    "TI-233": {
+        "Monday-9:45 - 11:15": {
+            "subject": "MD - Lab",
+            "room": "409",
+            "professorName": "Patrick Hess"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "CSA - Curs",
+            "room": "3-512",
+            "professorName": "Meghan Krueger"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "GC - Curs",
+            "room": "3-101",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-519",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-224",
+            "professorName": "Antonino Pizelato"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "420",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "MS - Curs",
+            "room": "3-623",
+            "professorName": "Shepard Decker"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "MS - Lab",
+            "room": "409",
+            "professorName": "Anika Peters"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "GC - Lab",
+            "room": "422",
+            "professorName": "Justice Hawkins"
+        }
+    },
+    "TI-234": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-401",
+            "professorName": "Shepard Decker"
+        },
+        "Monday-13:30 - 15:00": {
+            "subject": "AM2 - Curs",
+            "room": "3-618",
+            "professorName": "Antonino Pizelato"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "GC - Lab",
+            "room": "212",
+            "professorName": "Justice Hawkins"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Lab",
+            "room": "501A",
+            "professorName": "Anika Peters"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "217",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "6-2",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "420",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "3-402",
+            "professorName": "Meghan Krueger"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        }
+    },
+    "TI-235": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-401",
+            "professorName": "Shepard Decker"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "GC - Curs",
+            "room": "3-717",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "420",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "AM2 - Curs",
+            "room": "3-113",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "422",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "GC - Lab",
+            "room": "409",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "214",
+            "professorName": "Anika Peters"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "SDA - Curs",
+            "room": "3-118",
+            "professorName": "Andrew Nigel"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        }
+    },
+    "TI-236": {
+        "Monday-9:45 - 11:15": {
+            "subject": "MD - Curs",
+            "room": "3-310",
+            "professorName": "Aleena Petersen"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "GC - Lab",
+            "room": "416",
+            "professorName": "Justice Hawkins"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "503",
+            "professorName": "Drake Kemp"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "427",
+            "professorName": "Anika Peters"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "MD - Lab",
+            "room": "110",
+            "professorName": "Patrick Hess"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "AM2 - Curs",
+            "room": "3-115",
+            "professorName": "Antonino Pizelato"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "SDA - Curs",
+            "room": "3-118",
+            "professorName": "Andrew Nigel"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "CSA - Curs",
+            "room": "6-2",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "GC - Curs",
+            "room": "3-609",
+            "professorName": "Jones Portillo"
+        }
+    },
+    "TI-237": {
+        "Monday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "6-2",
+            "professorName": "Carter Mullen"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "GC - Lab",
+            "room": "110",
+            "professorName": "Justice Hawkins"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "215",
+            "professorName": "Drake Kemp"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "GC - Curs",
+            "room": "3-104",
+            "professorName": "Jones Portillo"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA - Curs",
+            "room": "3-707",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-104",
+            "professorName": "Antonino Pizelato"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "MD - Lab",
+            "room": "217",
+            "professorName": "Patrick Hess"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-104",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Lab",
+            "room": "420",
+            "professorName": "Anika Peters"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "MS - Curs",
+            "room": "3-624",
+            "professorName": "Shepard Decker"
+        }
+    },
+    "TI-238": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MD - Lab",
+            "room": "114",
+            "professorName": "Patrick Hess"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "MD - Curs",
+            "room": "6-2",
+            "professorName": "Aleena Petersen"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-611",
+            "professorName": "Shepard Decker"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "407",
+            "professorName": "Drake Kemp"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "D-01",
+            "professorName": "Anika Peters"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "GC - Lab",
+            "room": "406",
+            "professorName": "Justice Hawkins"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "GC - Curs",
+            "room": "3-118",
+            "professorName": "Jones Portillo"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-720",
+            "professorName": "Carter Mullen"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-624",
+            "professorName": "Faye McCarty"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "SDA - Curs",
+            "room": "3-707",
+            "professorName": "Andrew Nigel"
+        }
+    },
+    "TI-239": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MS - Curs",
+            "room": "3-115",
+            "professorName": "Shepard Decker"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "SDA - Curs",
+            "room": "3-113",
+            "professorName": "Andrew Nigel"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-203",
+            "professorName": "Faye McCarty"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-3",
+            "professorName": "Carter Mullen"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "MS - Lab",
+            "room": "A-02",
+            "professorName": "Anika Peters"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "GC - Lab",
+            "room": "501A",
+            "professorName": "Justice Hawkins"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "MD - Lab",
+            "room": "A-02",
+            "professorName": "Patrick Hess"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "MD - Curs",
+            "room": "3-613",
+            "professorName": "Aleena Petersen"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "D-02",
+            "professorName": "Drake Kemp"
+        }
+    },
+    "TI-2310": {
+        "Monday-8:00 - 9:30": {
+            "subject": "MD - Curs",
+            "room": "3-201",
+            "professorName": "Aleena Petersen"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "L. Rom\u00e2n\u0103 2 - Sem",
+            "room": "3-606",
+            "professorName": "Faye McCarty"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "AM2 - Curs",
+            "room": "3-224",
+            "professorName": "Antonino Pizelato"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "SDA - Curs",
+            "room": "3-622",
+            "professorName": "Andrew Nigel"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "MS - Lab",
+            "room": "A-03",
+            "professorName": "Anika Peters"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Curs",
+            "room": "3-310",
+            "professorName": "Shepard Decker"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-310",
+            "professorName": "Carter Mullen"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "406",
+            "professorName": "Drake Kemp"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "GC - Lab",
+            "room": "406",
+            "professorName": "Justice Hawkins"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-224",
+            "professorName": "Meghan Krueger"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "MD - Lab",
+            "room": "D-02",
+            "professorName": "Patrick Hess"
+        }
+    },
+    "FI-231": {
+        "Monday-11:30 - 13:00": {
+            "subject": "GC - Lab",
+            "room": "212",
+            "professorName": "Justice Hawkins"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "Mecanica Teoretic\u0103 - Lab",
+            "room": "502A",
+            "professorName": "Drake Kemp"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "GC - Curs",
+            "room": "6-2",
+            "professorName": "Jones Portillo"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "AM2 - Curs",
+            "room": "3-104",
+            "professorName": "Antonino Pizelato"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "MD - Curs",
+            "room": "3-101",
+            "professorName": "Aleena Petersen"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "MS - Lab",
+            "room": "502B",
+            "professorName": "Anika Peters"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "CSA - Curs",
+            "room": "3-104",
+            "professorName": "Meghan Krueger"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "MS - Curs",
+            "room": "3-623",
+            "professorName": "Shepard Decker"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "SDA - Curs",
+            "room": "3-601",
+            "professorName": "Andrew Nigel"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Mecanica Teoretic\u0103 - Curs",
+            "room": "3-202",
+            "professorName": "Carter Mullen"
+        }
+    },
+    "FAF-231": {
+        "Monday-18:30 - 20:15": {
+            "subject": "MN (FAF) - Curs",
+            "room": "3-622",
+            "professorName": "Brandon Miles"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "AM2(FAF) - Sem",
+            "room": "3-201",
+            "professorName": "Bodhi Dunn"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "SA (FAF) - Lab",
+            "room": "513A",
+            "professorName": "James Bryant"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "MS(FAF) - Curs",
+            "room": "3-609",
+            "professorName": "Olive Mason"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "SA (FAF) - Curs",
+            "room": "3-624",
+            "professorName": "Mabel Walsh"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "SDA(FAF) - Curs",
+            "room": "3-604",
+            "professorName": "Alessandra Pace"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "CSA(FAF) - Curs",
+            "room": "3-724",
+            "professorName": "Dior Clark"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "AM2(FAF) - Curs",
+            "room": "3-515",
+            "professorName": "Bodhi Dunn"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "SDA(FAF) - Lab",
+            "room": "503",
+            "professorName": "Jasper Cline"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "L. Engleza2 (FAF) - Sem",
+            "room": "3-613",
+            "professorName": "Chloe McBride"
+        }
+    },
+    "FAF-232": {
+        "Monday-13:30 - 15:00": {
+            "subject": "AM2(FAF) - Sem",
+            "room": "3-606",
+            "professorName": "Bodhi Dunn"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "SA (FAF) - Lab",
+            "room": "501B",
+            "professorName": "James Bryant"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "MN (FAF) - Curs",
+            "room": "3-623",
+            "professorName": "Brandon Miles"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "AM2(FAF) - Curs",
+            "room": "3-724",
+            "professorName": "Bodhi Dunn"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "L. Engleza2 (FAF) - Sem",
+            "room": "3-203",
+            "professorName": "Chloe McBride"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "SDA(FAF) - Curs",
+            "room": "3-709",
+            "professorName": "Alessandra Pace"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "SA (FAF) - Sem",
+            "room": "3-115",
+            "professorName": "Mabel Walsh"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "CSA(FAF) - Curs",
+            "room": "3-310",
+            "professorName": "Dior Clark"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "MS(FAF) - Curs",
+            "room": "3-611",
+            "professorName": "Olive Mason"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "SA (FAF) - Curs",
+            "room": "3-203",
+            "professorName": "Mabel Walsh"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "SDA(FAF) - Lab",
+            "room": "A-03",
+            "professorName": "Jasper Cline"
+        }
+    },
+    "FAF-233": {
+        "Monday-11:30 - 13:00": {
+            "subject": "MS(FAF) - Curs",
+            "room": "3-113",
+            "professorName": "Olive Mason"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "SDA(FAF) - Curs",
+            "room": "3-104",
+            "professorName": "Alessandra Pace"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "SDA(FAF) - Lab",
+            "room": "502A",
+            "professorName": "Jasper Cline"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "MN (FAF) - Curs",
+            "room": "3-402",
+            "professorName": "Brandon Miles"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "SA (FAF) - Sem",
+            "room": "3-405",
+            "professorName": "Mabel Walsh"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "CSA(FAF) - Curs",
+            "room": "3-310",
+            "professorName": "Dior Clark"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "SA (FAF) - Lab",
+            "room": "114",
+            "professorName": "James Bryant"
+        }
+    },
+    "AI-221": {
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Circuite integrate - Curs",
+            "room": "3-604",
+            "professorName": "Daleyza Villegas"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "518",
+            "professorName": "Mara Lin"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Sisteme de operare - Lab",
+            "room": "427",
+            "professorName": "Dayana Morse"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Sisteme de operare - Curs",
+            "room": "3-614",
+            "professorName": "Archie Rhodes"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-104",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "114",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Teoria sistemelor automate - Curs",
+            "room": "3-720",
+            "professorName": "Novah Cannon"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Curs",
+            "room": "3-3",
+            "professorName": "Kalani Wright"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Lab",
+            "room": "502A",
+            "professorName": "Xavier Morton"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Teoria sistemelor automate - Lab",
+            "room": "422",
+            "professorName": "Cory Copeland"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-606",
+            "professorName": "Kaiya Salas"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Circuite integrate - Lab",
+            "room": "619",
+            "professorName": "Skyler Cameron"
+        }
+    },
+    "CR-221": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-310",
+            "professorName": "Maxine Watts"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "503",
+            "professorName": "Athena Klein"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-622",
+            "professorName": "Emberly Brown"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Proiectarea cu dispozitive programabile - Curs",
+            "room": "3-614",
+            "professorName": "Hadleigh Chambers"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Proiectarea circuitelor numerice - Lab",
+            "room": "A-02",
+            "professorName": "Anastasia Alvarez"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "416",
+            "professorName": "Mara Lin"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "A-01",
+            "professorName": "Angel Ballard"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Proiectarea circuitelor numerice - Curs",
+            "room": "3-717",
+            "professorName": "Orion Simon"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "427",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Proiectarea cu dispozitive programabile - Lab",
+            "room": "502A",
+            "professorName": "Kenzo Simpson"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-505",
+            "professorName": "Kaiya Salas"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-512",
+            "professorName": "Idris Burnett"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "427",
+            "professorName": "Marco Skinner"
+        }
+    },
+    "CR-222": {
+        "Monday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "422",
+            "professorName": "Marco Skinner"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-524",
+            "professorName": "Elijah Lu"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-614",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-719",
+            "professorName": "Dakota Dudley"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Proiectarea cu dispozitive programabile - Curs",
+            "room": "3-614",
+            "professorName": "Hadleigh Chambers"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-515",
+            "professorName": "Emberly Brown"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "518",
+            "professorName": "Angel Ballard"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "215",
+            "professorName": "Arturo Gross"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "608",
+            "professorName": "Athena Klein"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "212",
+            "professorName": "Mara Lin"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Proiectarea cu dispozitive programabile - Lab",
+            "room": "422",
+            "professorName": "Kenzo Simpson"
+        }
+    },
+    "CR-223": {
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "503",
+            "professorName": "Angel Ballard"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-505",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "406",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-104",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Proiectarea cu dispozitive programabile - Lab",
+            "room": "502B",
+            "professorName": "Kenzo Simpson"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "D-02",
+            "professorName": "Mara Lin"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-104",
+            "professorName": "Elijah Lu"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Proiectarea circuitelor numerice - Curs",
+            "room": "3-719",
+            "professorName": "Orion Simon"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Proiectarea circuitelor numerice - Lab",
+            "room": "518",
+            "professorName": "Anastasia Alvarez"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Proiectarea cu dispozitive programabile - Curs",
+            "room": "3-613",
+            "professorName": "Hadleigh Chambers"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-609",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "422",
+            "professorName": "Athena Klein"
+        }
+    },
+    "EA-221": {
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Materiale \u0219i componente \u00een electronic\u0103 - Lab",
+            "room": "112",
+            "professorName": "Emmy Kim"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Circuite integrate - Curs",
+            "room": "3-604",
+            "professorName": "Daleyza Villegas"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Limbaje de descriere Hardware - Lab",
+            "room": "513A",
+            "professorName": "Juelz Crawford"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Proiectarea asistat\u0103 \u00een electronic\u0103 - Curs",
+            "room": "3-614",
+            "professorName": "Bodie Simon"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Circuite integrate - Lab",
+            "room": "501B",
+            "professorName": "Skyler Cameron"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Sisteme de comunicare \u0219i transmisie de date - Curs",
+            "room": "6-2",
+            "professorName": "Jasper Fry"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Dispozitive electronice \u00een electronica aplicat\u0103 - Lab",
+            "room": "513B",
+            "professorName": "Karla Woods"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Programarea \u00een electronic\u0103 - Curs",
+            "room": "3-203",
+            "professorName": "Kalani Stephens"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-203",
+            "professorName": "Kaiya Salas"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "M\u0103suri electronice - Lab",
+            "room": "110",
+            "professorName": "Marianna Lucas"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "M\u0103suri electronice - Curs",
+            "room": "3-720",
+            "professorName": "Owen Cortez"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Programarea \u00een electronic\u0103 - Lab",
+            "room": "518",
+            "professorName": "Jorge Duarte"
+        }
+    },
+    "IA-221": {
+        "Monday-9:45 - 11:15": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Curs",
+            "room": "3-720",
+            "professorName": "Jaiden Mills"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Sem",
+            "room": "3-630",
+            "professorName": "June Wade"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-118",
+            "professorName": "Idris Burnett"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-104",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-118",
+            "professorName": "Emberly Brown"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Curs",
+            "room": "3-622",
+            "professorName": "June Wade"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "502B",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "513A",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-3",
+            "professorName": "Elijah Lu"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-624",
+            "professorName": "Zane Kerr"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Marco Skinner"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "513B",
+            "professorName": "Mara Lin"
+        }
+    },
+    "IA-222": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Curs",
+            "room": "3-202",
+            "professorName": "June Wade"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-404",
+            "professorName": "Nathan Correa"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "110",
+            "professorName": "Mara Lin"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-606",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-224",
+            "professorName": "Zane Kerr"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-202",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Curs",
+            "room": "3-601",
+            "professorName": "Jaiden Mills"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "A-01",
+            "professorName": "Athena Klein"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "422",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Sem",
+            "room": "3-524",
+            "professorName": "June Wade"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Marco Skinner"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Sem",
+            "room": "3-624",
+            "professorName": "Jaiden Mills"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-614",
+            "professorName": "Emberly Brown"
+        }
+    },
+    "IA-223": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "217",
+            "professorName": "Conor Norman"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Curs",
+            "room": "3-202",
+            "professorName": "June Wade"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Sem",
+            "room": "3-202",
+            "professorName": "Jaiden Mills"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-203",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "212",
+            "professorName": "Athena Klein"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "409",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "407",
+            "professorName": "Mara Lin"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-606",
+            "professorName": "Nathan Correa"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-622",
+            "professorName": "Elijah Lu"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-609",
+            "professorName": "Emani Lynch"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-312",
+            "professorName": "Zane Kerr"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-115",
+            "professorName": "Emberly Brown"
+        }
+    },
+    "IA-224": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Curs",
+            "room": "3-613",
+            "professorName": "June Wade"
+        },
+        "Monday-9:45 - 11:15": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Curs",
+            "room": "3-720",
+            "professorName": "Jaiden Mills"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-113",
+            "professorName": "Emani Lynch"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "422",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "501B",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-203",
+            "professorName": "Kaiya Salas"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-630",
+            "professorName": "Idris Burnett"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "628",
+            "professorName": "Mara Lin"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-224",
+            "professorName": "Elijah Lu"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-614",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Sem",
+            "room": "3-623",
+            "professorName": "June Wade"
+        }
+    },
+    "IA-225": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "518",
+            "professorName": "Conor Norman"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-203",
+            "professorName": "Kaiya Salas"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-118",
+            "professorName": "Idris Burnett"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-312",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Lingvistica computa\u021bional\u0103 - Sem",
+            "room": "3-312",
+            "professorName": "June Wade"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Curs",
+            "room": "3-622",
+            "professorName": "Jaiden Mills"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "518",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-201",
+            "professorName": "Zane Kerr"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-04",
+            "professorName": "Marco Skinner"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-104",
+            "professorName": "Elijah Lu"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "110",
+            "professorName": "Mara Lin"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "\u00cenv\u0103\u021barea automat\u0103 - Sem",
+            "room": "3-115",
+            "professorName": "Jaiden Mills"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-609",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-623",
+            "professorName": "Nathan Correa"
+        }
+    },
+    "MI-221": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Limbaje formale \u0219i compilatoare - Curs",
+            "room": "3-3",
+            "professorName": "Baylee Diaz"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-604",
+            "professorName": "Zane Kerr"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "215",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "5-1",
+            "professorName": "Emberly Brown"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-630",
+            "professorName": "Idris Burnett"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "215",
+            "professorName": "Athena Klein"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-606",
+            "professorName": "Nathan Correa"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-224",
+            "professorName": "Elijah Lu"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "608",
+            "professorName": "Mara Lin"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-201",
+            "professorName": "Kaiya Salas"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-312",
+            "professorName": "Emani Lynch"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-04",
+            "professorName": "Marco Skinner"
+        }
+    },
+    "MI-222": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Limbaje formale \u0219i compilatoare - Curs",
+            "room": "3-3",
+            "professorName": "Baylee Diaz"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-505",
+            "professorName": "Kaiya Salas"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-104",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "513A",
+            "professorName": "Conor Norman"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-601",
+            "professorName": "Nathan Correa"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-604",
+            "professorName": "Zane Kerr"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "416",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "212",
+            "professorName": "Mara Lin"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-630",
+            "professorName": "Elijah Lu"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-613",
+            "professorName": "Idris Burnett"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-614",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "D-01",
+            "professorName": "Athena Klein"
+        }
+    },
+    "MI-223": {
+        "Monday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-709",
+            "professorName": "Emani Lynch"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Procesarea informa\u021biei - Sem",
+            "room": "3-515",
+            "professorName": "Nathan Correa"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Limbaje formale \u0219i compilatoare - Curs",
+            "room": "3-607",
+            "professorName": "Baylee Diaz"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-505",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-607",
+            "professorName": "Emberly Brown"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Cercet\u0103ri opera\u021bionale - Curs",
+            "room": "3-604",
+            "professorName": "Zane Kerr"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "215",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Tehnici avansate de programare - Lab",
+            "room": "D-04",
+            "professorName": "Mara Lin"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-201",
+            "professorName": "Kaiya Salas"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Tehnici avansate de programare - Curs",
+            "room": "3-104",
+            "professorName": "Elijah Lu"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "502B",
+            "professorName": "Conor Norman"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "114",
+            "professorName": "Marco Skinner"
+        }
+    },
+    "IBM-221": {
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Circuite integrate 1 - Lab",
+            "room": "608",
+            "professorName": "Chance Villa"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Proiectarea asistat\u0103 \u00een electronic\u0103 - Curs",
+            "room": "3-614",
+            "professorName": "Bodie Simon"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Arhitectura sistemelor de calcul - Lab",
+            "room": "A-01",
+            "professorName": "Zion Rios"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Circuite integrate 1 - Curs",
+            "room": "3-720",
+            "professorName": "Haven Roberson"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Dispozitive micro-optoelectronice - Curs",
+            "room": "3-402",
+            "professorName": "Anne Arnold"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Biomateriale - Lab",
+            "room": "502A",
+            "professorName": "Maria Mills"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Anatomia \u0219i fiziologia uman\u0103 2 - Lab",
+            "room": "409",
+            "professorName": "Kenzie McDowell"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Biomateriale - Curs",
+            "room": "3-401",
+            "professorName": "Gustavo Chang"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "Anatomia \u0219i fiziologia uman\u0103 2 - Curs",
+            "room": "3-310",
+            "professorName": "Reece Stout"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "M\u0103suri electronice - Lab",
+            "room": "502B",
+            "professorName": "Marianna Lucas"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-524",
+            "professorName": "Kaiya Salas"
+        }
+    },
+    "IBM-222": {
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Anatomia \u0219i fiziologia uman\u0103 2 - Curs",
+            "room": "3-404",
+            "professorName": "Reece Stout"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Circuite integrate 1 - Curs",
+            "room": "3-720",
+            "professorName": "Haven Roberson"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Anatomia \u0219i fiziologia uman\u0103 2 - Lab",
+            "room": "D-04",
+            "professorName": "Kenzie McDowell"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-515",
+            "professorName": "Kaiya Salas"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Arhitectura sistemelor de calcul - Lab",
+            "room": "215",
+            "professorName": "Zion Rios"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Biomateriale - Lab",
+            "room": "502B",
+            "professorName": "Maria Mills"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Biomateriale - Curs",
+            "room": "3-401",
+            "professorName": "Gustavo Chang"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Arhitectura sistemelor de calcul - Curs",
+            "room": "3-505",
+            "professorName": "Waverly Lam"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Circuite integrate 1 - Lab",
+            "room": "502A",
+            "professorName": "Chance Villa"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "M\u0103suri electronice - Curs",
+            "room": "3-720",
+            "professorName": "Owen Cortez"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "M\u0103suri electronice - Lab",
+            "room": "501A",
+            "professorName": "Marianna Lucas"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Proiectarea asistat\u0103 \u00een electronic\u0103 - Curs",
+            "room": "3-719",
+            "professorName": "Bodie Simon"
+        }
+    },
+    "MN-221": {
+        "Monday-9:45 - 11:15": {
+            "subject": "Programarea \u00een electronic\u0103 - Lab",
+            "room": "215",
+            "professorName": "Jorge Duarte"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Circuite integrate 1 - Lab",
+            "room": "516",
+            "professorName": "Chance Villa"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Materiale \u0219i componente \u00een electronic\u0103 - Lab",
+            "room": "406",
+            "professorName": "Emmy Kim"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Bazele transmiterii de date - Curs",
+            "room": "3-512",
+            "professorName": "Messiah Munoz"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Circuite integrate 1 - Curs",
+            "room": "3-720",
+            "professorName": "Haven Roberson"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Programarea \u00een electronic\u0103 - Curs",
+            "room": "3-203",
+            "professorName": "Kalani Stephens"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Arhitectura sistemelor de calcul - Lab",
+            "room": "110",
+            "professorName": "Zion Rios"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Dispozitive micronanoelectronice - Curs",
+            "room": "3-623",
+            "professorName": "Shepherd Mathis"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "M\u0103suri electronice - Lab",
+            "room": "D-01",
+            "professorName": "Marianna Lucas"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-404",
+            "professorName": "Kaiya Salas"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "M\u0103suri electronice - Curs",
+            "room": "3-720",
+            "professorName": "Owen Cortez"
+        },
+        "Saturday-17:00 - 18:30": {
+            "subject": "Dispozitive micronanoelectronice - Lab",
+            "room": "501A",
+            "professorName": "Johanna Gibbs"
+        }
+    },
+    "MN-222": {
+        "Tuesday-13:30 - 15:00": {
+            "subject": "M\u0103suri electronice - Lab",
+            "room": "A-02",
+            "professorName": "Marianna Lucas"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Circuite integrate 1 - Lab",
+            "room": "513A",
+            "professorName": "Chance Villa"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Proiectarea asistat\u0103 \u00een electronic\u0103 - Curs",
+            "room": "3-614",
+            "professorName": "Bodie Simon"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Bazele transmiterii de date - Curs",
+            "room": "3-512",
+            "professorName": "Messiah Munoz"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Circuite integrate 1 - Curs",
+            "room": "3-720",
+            "professorName": "Haven Roberson"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Arhitectura sistemelor de calcul - Lab",
+            "room": "215",
+            "professorName": "Zion Rios"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Materiale \u0219i componente \u00een electronic\u0103 - Curs",
+            "room": "3-101",
+            "professorName": "Kingsley Mathis"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Dispozitive micronanoelectronice - Lab",
+            "room": "619",
+            "professorName": "Johanna Gibbs"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Dispozitive micronanoelectronice - Curs",
+            "room": "3-623",
+            "professorName": "Shepherd Mathis"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "M\u0103suri electronice - Curs",
+            "room": "3-611",
+            "professorName": "Owen Cortez"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Programarea \u00een electronic\u0103 - Curs",
+            "room": "3-717",
+            "professorName": "Kalani Stephens"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Materiale \u0219i componente \u00een electronic\u0103 - Lab",
+            "room": "619",
+            "professorName": "Emmy Kim"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Programarea \u00een electronic\u0103 - Lab",
+            "room": "D-02",
+            "professorName": "Jorge Duarte"
+        }
+    },
+    "RM-221": {
+        "Monday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "416",
+            "professorName": "Conor Norman"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "A-02",
+            "professorName": "Arturo Gross"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-201",
+            "professorName": "Kaiya Salas"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Proiectarea circuitelor numerice - Lab",
+            "room": "628",
+            "professorName": "Anastasia Alvarez"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Bazele roboticii \u0219i mecatronicii - Lab",
+            "room": "406",
+            "professorName": "Mallory Olsen"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Lab",
+            "room": "215",
+            "professorName": "Xavier Morton"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Curs",
+            "room": "3-624",
+            "professorName": "Kalani Wright"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Proiectarea cu dispozitive programabile - Curs",
+            "room": "3-202",
+            "professorName": "Hadleigh Chambers"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Proiectarea cu dispozitive programabile - Lab",
+            "room": "628",
+            "professorName": "Kenzo Simpson"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-604",
+            "professorName": "Emani Lynch"
+        }
+    },
+    "RM-222": {
+        "Monday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Marco Skinner"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Bazele roboticii \u0219i mecatronicii - Curs",
+            "room": "3-3",
+            "professorName": "Grayson Cabrera"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-601",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "409",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "501B",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Proiectarea circuitelor numerice - Lab",
+            "room": "416",
+            "professorName": "Anastasia Alvarez"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Bazele roboticii \u0219i mecatronicii - Lab",
+            "room": "D-04",
+            "professorName": "Mallory Olsen"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Proiectarea cu dispozitive programabile - Curs",
+            "room": "3-707",
+            "professorName": "Hadleigh Chambers"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Lab",
+            "room": "427",
+            "professorName": "Xavier Morton"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Ma\u0219ini electrice \u0219i ac\u021bion\u0103ri - Curs",
+            "room": "3-622",
+            "professorName": "Kalani Wright"
+        }
+    },
+    "SI-221": {
+        "Monday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-607",
+            "professorName": "Emberly Brown"
+        },
+        "Monday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-515",
+            "professorName": "Tatum Dodson"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-113",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Cadrul legal al securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-609",
+            "professorName": "Everlee Perez"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-604",
+            "professorName": "Idris Burnett"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "513B",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "513A",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "407",
+            "professorName": "Angel Ballard"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "D-04",
+            "professorName": "Athena Klein"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Marco Skinner"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-203",
+            "professorName": "Kaiya Salas"
+        }
+    },
+    "SI-222": {
+        "Monday-11:30 - 13:00": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "518",
+            "professorName": "Athena Klein"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Cadrul legal al securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-609",
+            "professorName": "Everlee Perez"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-202",
+            "professorName": "Kaiya Salas"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "D-04",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "503",
+            "professorName": "Marco Skinner"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-611",
+            "professorName": "Emberly Brown"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "608",
+            "professorName": "Arturo Gross"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "628",
+            "professorName": "Angel Ballard"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-101",
+            "professorName": "Idris Burnett"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-604",
+            "professorName": "Emani Lynch"
+        }
+    },
+    "TI-221": {
+        "Monday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-623",
+            "professorName": "Emberly Brown"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-614",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "503",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-113",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-202",
+            "professorName": "Emani Lynch"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "217",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-624",
+            "professorName": "Tatum Dodson"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-404",
+            "professorName": "Kaiya Salas"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "420",
+            "professorName": "Marco Skinner"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "608",
+            "professorName": "Angel Ballard"
+        }
+    },
+    "TI-222": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-310",
+            "professorName": "Maxine Watts"
+        },
+        "Monday-9:45 - 11:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "D-01",
+            "professorName": "Angel Ballard"
+        },
+        "Monday-11:30 - 13:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "112",
+            "professorName": "Arturo Gross"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-718",
+            "professorName": "Dakota Dudley"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-604",
+            "professorName": "Emberly Brown"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-202",
+            "professorName": "Tatum Dodson"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "406",
+            "professorName": "Athena Klein"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-519",
+            "professorName": "Emani Lynch"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "215",
+            "professorName": "Marco Skinner"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "608",
+            "professorName": "Conor Norman"
+        }
+    },
+    "TI-223": {
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "420",
+            "professorName": "Athena Klein"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-606",
+            "professorName": "Emani Lynch"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-201",
+            "professorName": "Tatum Dodson"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-402",
+            "professorName": "Dakota Dudley"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "501A",
+            "professorName": "Angel Ballard"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-512",
+            "professorName": "Kaiya Salas"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "416",
+            "professorName": "Marco Skinner"
+        },
+        "Friday-11:30 - 13:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-618",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "214",
+            "professorName": "Conor Norman"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-609",
+            "professorName": "Idris Burnett"
+        }
+    },
+    "TI-224": {
+        "Monday-9:45 - 11:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-203",
+            "professorName": "Tatum Dodson"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "427",
+            "professorName": "Athena Klein"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "A-01",
+            "professorName": "Angel Ballard"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-118",
+            "professorName": "Emberly Brown"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-113",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "608",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-405",
+            "professorName": "Tatum Dodson"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "D-03",
+            "professorName": "Arturo Gross"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-101",
+            "professorName": "Dakota Dudley"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-405",
+            "professorName": "Emani Lynch"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "114",
+            "professorName": "Marco Skinner"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-405",
+            "professorName": "Kaiya Salas"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-101",
+            "professorName": "Idris Burnett"
+        }
+    },
+    "TI-225": {
+        "Monday-17:00 - 18:30": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-115",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "502B",
+            "professorName": "Angel Ballard"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-113",
+            "professorName": "Dakota Dudley"
+        },
+        "Tuesday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "110",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-118",
+            "professorName": "Emberly Brown"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-405",
+            "professorName": "Tatum Dodson"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "501B",
+            "professorName": "Arturo Gross"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "215",
+            "professorName": "Conor Norman"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Saturday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-224",
+            "professorName": "Emani Lynch"
+        },
+        "Saturday-9:45 - 11:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "406",
+            "professorName": "Athena Klein"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-101",
+            "professorName": "Idris Burnett"
+        }
+    },
+    "TI-226": {
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-707",
+            "professorName": "Idris Burnett"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "619",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "503",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "501B",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "502A",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-519",
+            "professorName": "Kaiya Salas"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "409",
+            "professorName": "Angel Ballard"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-709",
+            "professorName": "Emberly Brown"
+        }
+    },
+    "TI-227": {
+        "Monday-11:30 - 13:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-606",
+            "professorName": "Kaiya Salas"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-104",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "D-04",
+            "professorName": "Athena Klein"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "608",
+            "professorName": "Angel Ballard"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-515",
+            "professorName": "Tatum Dodson"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "114",
+            "professorName": "Marco Skinner"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-718",
+            "professorName": "Emberly Brown"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-709",
+            "professorName": "Dakota Dudley"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-524",
+            "professorName": "Maxine Watts"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "D-01",
+            "professorName": "Arturo Gross"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "502A",
+            "professorName": "Conor Norman"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        }
+    },
+    "TI-228": {
+        "Monday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-310",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "513A",
+            "professorName": "Athena Klein"
+        },
+        "Wednesday-17:00 - 18:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "427",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "427",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "D-02",
+            "professorName": "Marco Skinner"
+        },
+        "Thursday-13:30 - 15:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-611",
+            "professorName": "Kaiya Salas"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "D-02",
+            "professorName": "Angel Ballard"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-101",
+            "professorName": "Dakota Dudley"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-519",
+            "professorName": "Tatum Dodson"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-609",
+            "professorName": "Idris Burnett"
+        }
+    },
+    "TI-229": {
+        "Monday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "215",
+            "professorName": "Athena Klein"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-115",
+            "professorName": "Dakota Dudley"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "422",
+            "professorName": "Conor Norman"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-718",
+            "professorName": "Idris Burnett"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-104",
+            "professorName": "Maxine Watts"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-601",
+            "professorName": "Kaiya Salas"
+        },
+        "Thursday-17:00 - 18:30": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "513B",
+            "professorName": "Arturo Gross"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "513B",
+            "professorName": "Angel Ballard"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-613",
+            "professorName": "Emberly Brown"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-3",
+            "professorName": "Tatum Dodson"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-505",
+            "professorName": "Tatum Dodson"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-604",
+            "professorName": "Emani Lynch"
+        }
+    },
+    "TI-2210": {
+        "Monday-17:00 - 18:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "422",
+            "professorName": "Conor Norman"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-113",
+            "professorName": "Dakota Dudley"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-224",
+            "professorName": "Tatum Dodson"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-601",
+            "professorName": "Tatum Dodson"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-104",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "D-01",
+            "professorName": "Athena Klein"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "D-02",
+            "professorName": "Arturo Gross"
+        },
+        "Thursday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-604",
+            "professorName": "Emberly Brown"
+        },
+        "Thursday-15:15 - 16:45": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "416",
+            "professorName": "Angel Ballard"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-405",
+            "professorName": "Kaiya Salas"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-524",
+            "professorName": "Emani Lynch"
+        }
+    },
+    "FI-221": {
+        "Monday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare - Lab",
+            "room": "420",
+            "professorName": "Marco Skinner"
+        },
+        "Monday-18:30 - 20:15": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Curs",
+            "room": "3-104",
+            "professorName": "Emani Lynch"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Arhitecuri de calculatoare - Lab",
+            "room": "214",
+            "professorName": "Arturo Gross"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-611",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate finite - Curs",
+            "room": "3-224",
+            "professorName": "Tatum Dodson"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Arhitecuri de calculatoare - Curs",
+            "room": "3-611",
+            "professorName": "Maxine Watts"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate finite - Sem",
+            "room": "3-630",
+            "professorName": "Tatum Dodson"
+        },
+        "Wednesday-18:30 - 20:15": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Lab",
+            "room": "112",
+            "professorName": "Athena Klein"
+        },
+        "Thursday-8:00 - 9:30": {
+            "subject": "Analiza \u0219i modelarea sistemelor - Lab",
+            "room": "420",
+            "professorName": "Conor Norman"
+        },
+        "Thursday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Lab",
+            "room": "501A",
+            "professorName": "Angel Ballard"
+        },
+        "Friday-18:30 - 20:15": {
+            "subject": "Tehnologii Web - Curs",
+            "room": "3-604",
+            "professorName": "Dakota Dudley"
+        },
+        "Saturday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare - Curs",
+            "room": "3-609",
+            "professorName": "Emberly Brown"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Tehnologii ale securit\u0103\u021bii informa\u021bionale - Curs",
+            "room": "3-512",
+            "professorName": "Idris Burnett"
+        }
+    },
+    "FAF-221": {
+        "Monday-13:30 - 15:00": {
+            "subject": "Tehnologii Multimedia (FAF) - Lab",
+            "room": "A-02",
+            "professorName": "Balamatiuc Eduard"
+        },
+        "Monday-17:00 - 18:30": {
+            "subject": "Limbaje formale \u0219i automate (FAF) - Lab",
+            "room": "215",
+            "professorName": "Luke Nava"
+        },
+        "Tuesday-8:00 - 9:30": {
+            "subject": "Limbaje formale \u0219i automate (FAF) - Curs",
+            "room": "3-115",
+            "professorName": "Etta Schaefer"
+        },
+        "Tuesday-9:45 - 11:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-203",
+            "professorName": "Kaiya Salas"
+        },
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare (FAF) - Curs",
+            "room": "3-104",
+            "professorName": "Spencer Dodson"
+        },
+        "Tuesday-13:30 - 15:00": {
+            "subject": "Tehnologii Multimedia (FAF) - Curs",
+            "room": "3-524",
+            "professorName": "Frida Figueroa"
+        },
+        "Tuesday-17:00 - 18:30": {
+            "subject": "Arhitecturi de calculatoare (FAF) - Lab",
+            "room": "D-03",
+            "professorName": "Pl\u0103m\u0103deal\u0103 Maxim"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Re\u021bele de calculatoare (FAF) - Lab",
+            "room": "502B",
+            "professorName": "Negai Marin"
+        },
+        "Wednesday-11:30 - 13:00": {
+            "subject": "Analiza algoritmilor (FAF) - Curs",
+            "room": "3-405",
+            "professorName": "Belen Patel"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Analiza algoritmilor (FAF) - Lab",
+            "room": "501A",
+            "professorName": "Axton Ventura"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Arhitecturi de calculatoare (FAF) - Curs",
+            "room": "3-310",
+            "professorName": "Parker Blackburn"
+        }
+    },
+    "FAF-222": {
+        "Tuesday-11:30 - 13:00": {
+            "subject": "Re\u021bele de calculatoare (FAF) - Curs",
+            "room": "3-104",
+            "professorName": "Spencer Dodson"
+        },
+        "Wednesday-8:00 - 9:30": {
+            "subject": "Tehnologii Multimedia (FAF) - Lab",
+            "room": "513B",
+            "professorName": "Balamatiuc Eduard"
+        },
+        "Wednesday-9:45 - 11:15": {
+            "subject": "Arhitecturi de calculatoare (FAF) - Lab",
+            "room": "501A",
+            "professorName": "Pl\u0103m\u0103deal\u0103 Maxim"
+        },
+        "Thursday-9:45 - 11:15": {
+            "subject": "Analiza algoritmilor (FAF) - Lab",
+            "room": "628",
+            "professorName": "Axton Ventura"
+        },
+        "Friday-8:00 - 9:30": {
+            "subject": "Tehnologii Multimedia (FAF) - Curs",
+            "room": "3-118",
+            "professorName": "Frida Figueroa"
+        },
+        "Friday-17:00 - 18:30": {
+            "subject": "Analiza algoritmilor (FAF) - Curs",
+            "room": "3-604",
+            "professorName": "Belen Patel"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate (FAF) - Lab",
+            "room": "502A",
+            "professorName": "Luke Nava"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-404",
+            "professorName": "Kaiya Salas"
+        }
+    },
+    "FAF-223": {
+        "Monday-13:30 - 15:00": {
+            "subject": "Arhitecturi de calculatoare (FAF) - Lab",
+            "room": "513A",
+            "professorName": "Pl\u0103m\u0103deal\u0103 Maxim"
+        },
+        "Monday-15:15 - 16:45": {
+            "subject": "Arhitecturi de calculatoare (FAF) - Curs",
+            "room": "3-201",
+            "professorName": "Parker Blackburn"
+        },
+        "Wednesday-13:30 - 15:00": {
+            "subject": "Re\u021bele de calculatoare (FAF) - Curs",
+            "room": "3-505",
+            "professorName": "Spencer Dodson"
+        },
+        "Wednesday-15:15 - 16:45": {
+            "subject": "Re\u021bele de calculatoare (FAF) - Lab",
+            "room": "407",
+            "professorName": "Negai Marin"
+        },
+        "Friday-9:45 - 11:15": {
+            "subject": "Analiza algoritmilor (FAF) - Lab",
+            "room": "513A",
+            "professorName": "Axton Ventura"
+        },
+        "Friday-13:30 - 15:00": {
+            "subject": "Tehnologii Multimedia (FAF) - Lab",
+            "room": "422",
+            "professorName": "Balamatiuc Eduard"
+        },
+        "Friday-15:15 - 16:45": {
+            "subject": "Analiza algoritmilor (FAF) - Curs",
+            "room": "3-624",
+            "professorName": "Belen Patel"
+        },
+        "Saturday-13:30 - 15:00": {
+            "subject": "Limbaje formale \u0219i automate (FAF) - Curs",
+            "room": "3-604",
+            "professorName": "Etta Schaefer"
+        },
+        "Saturday-15:15 - 16:45": {
+            "subject": "Ed. Fizic\u01034 - Sem",
+            "room": "3-607",
+            "professorName": "Kaiya Salas"
+        },
+        "Saturday-18:30 - 20:15": {
+            "subject": "Limbaje formale \u0219i automate (FAF) - Lab",
+            "room": "406",
+            "professorName": "Luke Nava"
+        }
+    }
+}
