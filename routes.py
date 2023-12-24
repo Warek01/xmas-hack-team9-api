@@ -37,10 +37,14 @@ def add_group():
         val = []
 
         for g in groups:
+            subjects = []
+            for s in g.subjects:
+                subjects.append(s.course_name)
             val.append({
                 'name': g.academic_group,
                 'language': g.language_spoken,
                 'peopleCount': g.total_students,
+                'subjects': subjects
             })
 
         return jsonify(val)
