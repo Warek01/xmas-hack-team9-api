@@ -376,7 +376,7 @@ def get_schedule(semester_parity):
 
     def find_subject(id):
         for i in list_of_subj1:
-            if id == i:
+            if id == i.id:
                 return i.unitate_curs
 
     def get_type(type):
